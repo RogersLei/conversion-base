@@ -18,12 +18,12 @@
   Covert.prototype.getgetcomplementalCode() <br>
 
 ```
-npm install number-converter --save
+npm install conversion-base --save
 
 ```
 ```
 
-import Convert from "number-converter";
+import Convert from "conversion-base";
 
 let code1 = new Convert( -998244110 );
 
