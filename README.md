@@ -44,4 +44,4 @@ code4.getComplementalCode() // 11110110
 
 ```
 
-使用2小时快速开发的插件。有什么 Bug 或者 建议 请提Issue
+快速开发的插件。有什么 Bug 或者 建议 请提Issue
