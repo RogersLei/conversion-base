@@ -1,5 +1,5 @@
 {
-  "name": "number-converter",
+  "name": "conversion-base",
   "version": "0.0.1",
   "description": "convert the number to other radix",
   "main": "src/index.js",
