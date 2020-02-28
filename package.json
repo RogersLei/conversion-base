@@ -9,6 +9,10 @@
   "keywords": [
     "convert", "converter", "binary"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogersLei/conversion-base.git"
+  },
   "author": "RogersLei",
   "license": "ISC"
 }
